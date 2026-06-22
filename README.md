@@ -64,9 +64,67 @@ An interactive football analytics and match prediction system built with Streaml
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### Step-by-step Setup
+## 📈 Performance Metrics
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/fifa-world-cup-dashboard.git
-cd fifa-world-cup-dashboard
+The current model achieves:
+* **Accuracy:** ~70-75% (varies based on data)
+* **Features:** 4 key performance indicators
+* **Training Data:** All FIFA World Cup matches in dataset
+
+---
+
+## 🎯 Use Cases
+
+* Football analysts and commentators
+* Sports data enthusiasts
+* Students learning data science
+* Fans wanting to understand team performance
+* Predictive analytics demonstrations
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. **Fork** the repository
+2. **Create a feature branch:** `git checkout -b feature/AmazingFeature`
+3. **Commit your changes:** `git commit -m 'Add some AmazingFeature'`
+4. **Push to the branch:** `git push origin feature/AmazingFeature`
+5. **Open a Pull Request**
+
+---
+
+## 📝 License
+
+This project is open source and available under the **MIT License**.
+
+---
+
+## 👥 Authors
+
+* **Sameer Danish**
+
+---
+
+## 🙏 Acknowledgments
+
+* **martj42** for the international results dataset
+* **Streamlit team** for the amazing framework
+* All football fans and data enthusiasts
+
+---
+## 🚀 Live Demo
+
+See the app in action: 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fifa-world-cup.streamlit.app/)
+
+---
+## 📧 Contact
+
+For questions or feedback, please open an issue or contact [sameerdanishlohano@gmail.com](mailto:sameerdanishlohano@gmail.com).
+
+---
+
+<p align="center">Made with ❤️ for football and data science enthusiasts</p>
